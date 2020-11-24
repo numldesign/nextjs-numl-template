@@ -1,4 +1,4 @@
-This is a starter template for using [Next.js](https://nextjs.org/) with [Numl](https://numl.design).
+This is a starter template for [Next.js](https://nextjs.org/) and [Numl.Design](https://numl.design).
 
 ## Available commands
 
